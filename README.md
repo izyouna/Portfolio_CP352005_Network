@@ -12,11 +12,11 @@
 
 | Assignment | File |
 | :--- | :--- |
-| Personal Essay | [Personal essay.pdf](./Assignment1.pdf) |
-| Assignment 2 | [Assignment 2.pdf](./Assignment2.pdf) |
-| Assignment 3 | [Assignment 3.pdf](./Assignment3.pdf) |
-| Assignment 4 | [Assingment 4.pdf](./Assignment4.pdf) |
-| Assignment 5 | [Lab 5.pdf](./Lab_5.pdf) |
+| Personal Essay | [Personal essay.pdf](/Personal_Work/Assignment1.pdf) |
+| Assignment 2 | [Assignment 2.pdf](/Personal_Work/Assignment2.pdf) |
+| Assignment 3 | [Assignment 3.pdf](/Personal_Work/Assignment3.pdf) |
+| Assignment 4 | [Assingment 4.pdf](/Personal_Work/Assignment4.pdf) |
+| Assignment 5 | [Lab 5.pdf](/Personal_Work/LAB_5.pdf) |
 
 ---
 
@@ -24,11 +24,11 @@
 
 | LAB | PDF File |
 | :--- | :--- |
-| LAB 1 | [LAB 1.pdf](../Group_Work/G19_Lab_1.pdf) |
-| LAB 2 | [LAB 2.pdf](./Group_Work/G19_Lab_2.pdf) |
-| LAB 3 | [LAB 3.pdf](./Group_Work/G19_Lab_3.pdf) |
-| LAB 4 | [LAB 4.pdf](./Group_Work/G19_Lab_4.pdf) |
-| New Network | [New Network.pdf](./Group_Work/G19_New_Network.pdf) |
+| LAB 1 | [LAB 1.pdf](/Group_Work/G19%20Lab%201.pdf) |
+| LAB 2 | [LAB 2.pdf](/Group_Work/G19%20Lab%202.pdf) |
+| LAB 3 | [LAB 3.pdf](/Group_Work/G19%20Lab%203.pdf) |
+| LAB 4 | [LAB 4.pdf](/Group_Work/G19%20Lab%204.pdf) |
+| New Network | [New Network.pdf](/Group_Work/G19%20New%20Network.pdf) |
 
 ---
 
