@@ -24,11 +24,11 @@
 
 | LAB | PDF File |
 | :--- | :--- |
-| LAB 1 | [LAB 1.pdf](./G19_Lab_1.pdf) |
-| LAB 2 | [LAB 2.pdf](./G19_Lab_2.pdf) |
-| LAB 3 | [LAB 3.pdf](./G19_Lab_3.pdf) |
-| LAB 4 | [LAB 4.pdf](./G19_Lab_4.pdf) |
-| New Network | [New Network.pdf](./G19_New_Network.pdf) |
+| LAB 1 | [LAB 1.pdf](../Group_Work/G19_Lab_1.pdf) |
+| LAB 2 | [LAB 2.pdf](./Group_Work/G19_Lab_2.pdf) |
+| LAB 3 | [LAB 3.pdf](./Group_Work/G19_Lab_3.pdf) |
+| LAB 4 | [LAB 4.pdf](./Group_Work/G19_Lab_4.pdf) |
+| New Network | [New Network.pdf](./Group_Work/G19_New_Network.pdf) |
 
 ---
 
