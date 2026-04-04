@@ -8,7 +8,7 @@
 ---
 
 
-### 📄 Personal Work
+### Personal Work
 
 | Assignment | File |
 | :--- | :--- |
